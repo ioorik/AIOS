@@ -23,4 +23,4 @@ run-kernel:
 run:
 	qemu-system-x86_64 -cdrom ai_os.iso
 
-.PHONY: clean run all
+run-all: clean run all
