@@ -1,2 +1,2 @@
 # AI - OS  
-## The Os powered by AIs
+## The OS powered by AIs
